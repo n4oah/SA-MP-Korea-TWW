@@ -1,0 +1,25 @@
+objs
+15100, armory, armory, 100, 0
+15101, barrack, barrack, 100, 0
+15102, building, building, 100, 0
+15103, bunkerbig, bunkerbig, 100, 0
+15104, bunkersmall, bunkersmall, 100, 0
+15105, camptent, camptent, 100, 0
+15106, centerbox, centerbox, 100, 0
+15107, hanger, hanger, 100, 0
+15108, heli1, heli1, 100, 0
+15109, heli2, heli2, 100, 0
+15110, heli3, heli3, 100, 0
+15111, heli4, heli4, 100, 0
+15112, humvee, humvee, 100, 0
+15113, medictentbig, medictentbig, 100, 0
+15114, medictentsmall, medictentsmall, 100, 0
+15115, sandbag, sandbag, 100, 0
+15116, tent, tent, 100, 0
+15117, truck1, truck1, 100, 0
+15118, truck2, truck2, 100, 0
+15119, truck3, truck3, 100, 0
+15120, truck4, truck4, 100, 0
+15121, truck5, truck5, 100, 0
+15122, woodtower, woodtower, 100, 0
+end
